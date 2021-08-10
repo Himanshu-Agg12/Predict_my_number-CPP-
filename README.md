@@ -1,32 +1,29 @@
 # Predict My Number
 
-This is a c++ based beginners project, in this user have to think of a number between the give range and now the program will show you some kind of sets 
-now you as a user have to press yes or no (y/n) if your number is present in the set or not respectively.
+## Working
 
-After showing some sets answer will be shown on the screen.
+This is a Basic Project made by using C++. In this project the user will be asked to think of a number between the give range. The program will then show them some sets of numbers. The user will have to check if their selected number is present in the set and will have to respond by typing in *y* or *n* (yes or no).
 
-This is a fun game to play.
+After all sets are complete with user's responses, the number selected by the user will be displayed.
 
-I am learning Bits and Bytes and thought of this concept and successfully applied it.
-
-You can try this on your system.
-
-
+* This is a fun game to play.
+* I am learning Bits and Bytes and thought of this concept and successfully applied it.
+* This game can be easily played on your local machine.
 
 
 ## Installation
 
-Install my-project by cloning this repo or simply copy the code from .cpp file
+Install this project by cloning this repository or simply copy the code from [this](https://raw.githubusercontent.com/Himanshu-Agg12/Predict_my_number-CPP-/master/predict_my_number.cpp) file and run it on a C++ compiler.
 
 ```bash
   Install a code editor Eg: Vs code
-  make a directory 
-  open the .cpp file 
-  run the file by compiling it on editor
+  Make a directory
+  Open the .cpp file 
+  Run the file by compiling it using a compiler
 ```
 
-    
-## Authors
+
+## Author
 
 - [@Himanshu Aggarwal](https://www.linkedin.com/in/himanshu-aggarwal-8093201b7/)
 
